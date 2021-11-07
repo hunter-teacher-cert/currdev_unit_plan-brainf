@@ -1,0 +1,57 @@
+# UNIT PLAN NAME   Introduction to HTML and JavaScript 
+     by Iulian J Irimina and Marina Moshchenko
+
+-----
+## General Overview
+(include here description of the unit, what class(es) it fits into, when...)
+Introduction to HTML and JS unit is part of the Web Development course that introduces students to what we call  front end programming.  This unit includes the base foundation of HTML and beginning JavaScript concepts that will culminate in a project from a menu of options. 
+---
+
+## Motivation for Unit
+(why have you decided to make this?)
+Some of the reasons are :
+To develop students’ interest in web development professional field
+To allow students to use and extend their previous programming  knowledge gained from AP CSA
+To engage students in further programming and testing their own projects 
+---
+
+## Standards Referenced
+(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
+9-12.CT.4 Abstraction and Decomposition
+Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+---
+
+## Tools Used
+(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+This unit includes an intro to HTML and JavaScript. After this intro unit, students will become proficient in using CSS, git, github, shell scripting as well as combining all the tools in culminating projects. 
+
+---
+
+
+## Resources
+(include any links/books/readings to be used during this unit)
+https://dzone.com/articles/software-design-principles-dry-and-kiss
+
+
+---
+
+## Lessons
+Total length: 2 Weeks
+
+(list each lesson with main topic(s))
+The lessons are doubled.
+The anatomy of a web page and HTML structure
+Intro to Javascript: basic functions, basic events, and variables 
+Elements as objects and relationship between HTML and JavaScript
+Conditional statements and basic strings 
+SQA (Software Quality Analysis) 
+
+---
+
+## Assessments
+(list summative and/or formative assessments used)
+End of unit PROJECT
+Project testing and peer feedback 
+---
+
